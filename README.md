@@ -3,3 +3,5 @@ This is my first repository, which I made at a workshop at SCCS. This is only ma
 
 This line is added for practice as well, to prove that I can edit this in R Studio. 
 Hi, insects are cool in the right places
+
+I eat spotted lanternflies
